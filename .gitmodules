@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DisHet"]
+	path = DisHet
+	url = https://github.com/cran/DisHet
+	shallow = true
+	registered = true
+[submodule "MANCIE"]
+	path = MANCIE
+	url = https://github.com/cran/MANCIE
+	shallow = true
+	registered = true
